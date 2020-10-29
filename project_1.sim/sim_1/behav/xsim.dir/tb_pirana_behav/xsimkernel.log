@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_pirana_behav/xsimk.exe -simmode gui -wdb tb_pirana_behav.wdb -simrunnum 0 -socket 51294
+Design successfully loaded
+Design Loading Memory Usage: 19472 KB (Peak: 19472 KB)
+Design Loading CPU Usage: 280 ms
+Simulation completed
+Simulation Memory Usage: 19888 KB (Peak: 19888 KB)
+Simulation CPU Usage: 280 ms

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Tue Jun 06 18:56:59 2017
+# Process ID: 664
+# Current directory: C:/Users/urkmez/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log ucak_tazminat.vds -mode batch -messageDb vivado.pb -notrace -source ucak_tazminat.tcl
+# Log file: C:/Users/urkmez/project_1/project_1.runs/synth_1/ucak_tazminat.vds
+# Journal file: C:/Users/urkmez/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ucak_tazminat.tcl -notrace
